@@ -1,0 +1,16 @@
+{
+  "name": "bugbank-cypress",
+  "version": "1.0.0",
+  "scripts": {
+    "cy:open": "cypress open",
+    "test": "cypress run",
+    "test:chrome": "cypress run --browser chrome"
+  },
+  "keywords": [],
+  "author": "ClaraMaracaja",
+  "license": "ISC",
+  "description": "Automação de testes E2E do BugBank com Cypress - desafio final de Qualidade de Software",
+  "devDependencies": {
+    "cypress": "^15.21.2"
+  }
+}

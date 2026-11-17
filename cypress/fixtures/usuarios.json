@@ -1,0 +1,23 @@
+{
+  "comSaldo": {
+    "nome": "Ana Souza",
+    "email": "ana@bugbank.com",
+    "senha": "senha123",
+    "conta": "111",
+    "digito": "1",
+    "saldo": 1000
+  },
+  "semSaldo": {
+    "nome": "Bruno Lima",
+    "email": "bruno@bugbank.com",
+    "senha": "senha456",
+    "conta": "222",
+    "digito": "2",
+    "saldo": 0
+  },
+  "novo": {
+    "nome": "Carla Dias",
+    "email": "carla@bugbank.com",
+    "senha": "senha789"
+  }
+}
